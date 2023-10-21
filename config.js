@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+  ['919188732616', '«🇧🇪» ₉᪳₉᪳₉᪳𐎓ᴛʜʀɪʟᴏᴋ ᴏꜰᴄ 𐏓𔒝', true],
   [''],
   [''] 
 ] //Number of owners
@@ -47,11 +47,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = '𝗫𝗼𝗰𝗵𝗼 𝗫𝗱'        
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
-global.author = 'ABHISHEK SURESH' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
+global.packname = '൨͢ꪆയꪆട᭄ ൭⃗ച͢ക്ക൲ 🎏🎯«🇧🇪» ₉᪳₉᪳₉᪳𐎓ᴛʜʀɪʟᴏᴋ ᴏꜰᴄ 𐏓𔒝☘️' 
+global.author = '«🇧🇪» ₉᪳₉᪳₉᪳𐎓ᴛʜʀɪʟᴏᴋ ᴏꜰᴄ 𐏓𔒝' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/ax_zax_\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
 global.fgyt = 'https://youtube.com/@comedymelodych8468'
